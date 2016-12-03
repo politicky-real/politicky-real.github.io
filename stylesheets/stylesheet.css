@@ -423,3 +423,23 @@ Small Device Styles
   }
 
 }
+
+.menu {
+  padding: 0 20%;
+  border-bottom: 1px solid black;
+}
+
+.menu div {
+  width: 50%;
+  float: left;
+}
+
+.menu div a {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+.clear {
+  clear: both;
+}
